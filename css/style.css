@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+  }
+  nav {
+    background: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  nav a {
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  form {
+    max-width: 300px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+  }
+  form input, form button {
+    margin: 5px 0;
+    padding: 10px;
+  }
+  
